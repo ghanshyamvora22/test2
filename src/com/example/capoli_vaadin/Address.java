@@ -1,5 +1,5 @@
 package com.example.capoli_vaadin;
-
+// developed by ghanshyam
 public class Address  {
 	
 	private String location;

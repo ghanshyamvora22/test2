@@ -1,5 +1,6 @@
 package com.example.capoli_vaadin;
 
+//ghanshyam
 import java.io.Serializable;
 
 public class Bean implements Serializable {
